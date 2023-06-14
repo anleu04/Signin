@@ -1,0 +1,53 @@
+.login {
+    width: 41.4rem;
+    height: 89.6rem;
+    margin: auto;
+
+}
+.Eva {
+    position: absolute;
+    width: 159px;
+    height: 94px;
+    left: 125px;
+    top: 142px;
+}
+.sing  {
+    float: left;
+    margin-left: 2rem;
+    margin-top: 64.4rem; 
+    position: absolute;
+}
+
+.sing button {
+    width: 37.4rem;
+    height: 5.6rem;
+    background-color: black;
+    color: white;
+    border-radius: 1.8rem;
+    font-weight: 700;
+    font-size: 2.4rem;
+    cursor: pointer;
+}
+.c {
+    float: left;
+    position: absolute;
+    margin-top: 71.6rem;
+    margin-left: 2rem;
+}
+.c button {
+    width: 37.4rem;
+    height: 5.6rem;
+    border-radius: 1.8rem;
+    font-size: 2.3rem;
+    font-weight: 700;
+    cursor: pointer;
+}
+.help {
+    float: left;
+    margin-top: 54.8rem;
+    margin-left: 15.5rem;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2rem;
+    cursor: pointer;
+}
